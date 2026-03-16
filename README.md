@@ -88,4 +88,4 @@ Bu proje yapısı, komponent bazlı geliştirme ve Redux Toolkit kullanımını 
 
 
 
-![gif](/public/gif.mp4)
+![gif](/public/gif-1.gif)
